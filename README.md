@@ -6,4 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Deployemnt
+
+## Deployemnt
+This is the new section which will be pushed to Remote repository
+
